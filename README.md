@@ -40,7 +40,7 @@ src/
 └── types/               # Types TypeScript
 ```
 
-## 🎯 Fonctionnalités Clés
+## 🎯 Fonctionnalités clés
 
 ### 🔐 Authentification & Sécurité
 
